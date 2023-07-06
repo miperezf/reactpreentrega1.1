@@ -5,3 +5,10 @@
 body{
     background-color: aliceblue;
 }
+
+.CartWidget{
+    color: white;
+    display: flex;
+    transform: translate(600px,-40px);
+    width: min-content;
+}
